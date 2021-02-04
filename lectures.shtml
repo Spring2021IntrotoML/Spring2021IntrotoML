@@ -70,7 +70,10 @@
 		<tr>
 			<td colspan="2" bgcolor="#993333"></td>
 		</tr>
-		
+		<tr>
+			<td> <a href="Lectures/Lecture-4.pdf"><b>Lecture-4</b></a>: Numpy, Pandas and hw demo </td>
+			<td>&nbsp;</td>
+		</tr>
 		<tr>
 			<td> <a href="https://rensselaer.webex.com/rensselaer/ldr.php?RCID=5b2e2af7ad714ec8897a1380c49fcf7d"><b>Lecture-3 recording </b></a>Please check piazza pinned post for further information </td>
 			<td>&nbsp;</td>
