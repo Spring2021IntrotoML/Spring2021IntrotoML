@@ -71,6 +71,35 @@
 			<td colspan="2" bgcolor="#993333"></td>
 		</tr>
 		
+		
+		<tr>
+			<td> <a href="Lectures/Lecture-19.pdf"><b>Lecture-19</b></a>: Ensemble learning; Bagging; Boosting; Random forests </td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-18.pdf"><b>Lecture-18</b></a>: Text and NLP; Sentiment Analysis </td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-15.pdf"><b>Lecture-15</b></a>: Unsupervised Learning example; Text and NLP </td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-14.pdf"><b>Lecture-14</b></a>: Clustering; K-Means algorithm </td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-13.pdf"><b>Lecture-13</b></a>: Decision Trees; Entropy; Information gain </td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-12.pdf"><b>Lecture-12</b></a>: Quiz, Decision Trees </td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-11.pdf"><b>Lecture-11</b></a>: Features and Dimensionality Reduction; PCA; Regression -- Linear;Logistics </td>
+			<td>&nbsp;</td>
+		</tr>
 		<tr>
 			<td> <a href="Lectures/Lecture-10.pdf"><b>Lecture-10</b></a>: Accuracy Metrics, k-fold crossvalidation </td>
 			<td>&nbsp;</td>
